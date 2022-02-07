@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html lang=”en”>
+<head>
+    <meta charset=”UTF-8″ />
+    <title>Document</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' href="/css/estilos-Compra-factura.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <header>
+        <div class="contenedor">
+            <h2 class="logo">Cinema Coder</h2>
+            <nav>
+                <a href="index.html" class="a">Inicio</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="card">
+        <a id="imagen" href="#"><img src="" alt="" ></a>
+        <div class="formulario-compra">
+            <h2 id="nombrePelicula">Nombre Pelicula</h2>
+            <h3>Elija Tipo de Funcion: </h3>
+            <div class="tipo-pelicula">
+                <input type="radio" class="tipo-pelicula" name="tipo" value="2D" id="2D" /> 
+                <label class="lbl-radio" for="2D">2D</label>
+                <input type="radio" class="tipo-pelicula" name="tipo" value="3D" id="3D" /> 
+                <label class="lbl-radio" for="3D">3D</label>
+            </div> 
+            <h3>Elija Cantidad de Butacas:</h3>
+            <input class="cantidad-butacas" type="int" id="butacasIngresadas" value="" >
+            <button id="add-button" class="pretty-button">Continuar</button>
+        </div>
+        <div id="resumen-compra" class="total">
+            <h1 id="resumen" class="resumen"></h1>
+            <h2 id="resumen-nombre" class="resumen-nombre"></h2>
+            <h2 id="resumen-cantidad" class="resumen-cantidad"></h2>
+            <h2 id="resumen-tipo" class="resumen-tipo"></h2>
+            <h2 id="resumen-precio" class="resumen-precio"></h2>
+
+        </div>
+    </div>
+
+    <script src="https://kit.fontawesome.com/a06b435d4e.js" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="compra.js">  </script>
+</body>
+</html>
+
+
+

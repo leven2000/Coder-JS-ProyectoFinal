@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"nombre": "Spider-Man: No Way Home",
+		"imagenPoster": "/img/1.jpg",
+		"imagenFondo": "/img/fondo-spiderman.jpg",
+		"descripcion": "Peter Parker es desenmascarado y por tanto no es capaz de separar su vida normal de los enormes riesgos que conlleva ser un súper héroe. Cuando pide ayuda a Doctor Strange, los riesgos pasan a ser aún más peligrosos, obligándole a descubrir lo que realmente significa ser Spider-Man.",
+		"trailer": "https://www.youtube.com/watch?v=r6t0czGbuGI",
+		"entradas3D": 13 ,
+		"entradas2D": 4
+	},
+	{
+		"id": 2,
+		"nombre": "El padrino: Parte II ",
+		"imagenPoster": "/img/2.jpg",
+		"imagenFondo": "/img/fondo-elpadrino.jpg",
+		"descripcion": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+		"trailer": "https://www.youtube.com/watch?v=cpt4cXjdJz0",
+		"entradas3D": 23,
+		"entradas2D": 12
+	},
+	{
+		"id": 3,
+		"nombre": "Encanto",
+		"imagenPoster": "/img/3.jpg",
+		"imagenFondo": "/img/fondo-encanto.jpg",
+		"descripcion": "Encanto relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas en un “Encanto”. La magia del Encanto ha bendecido a cada niño de la familia con un don único, desde la superfuerza hasta el poder de sanar. A todos, excepto Mirabel, quien desea ser tan especial como el resto de su familia. Pero cuando la magia que rodea al Encanto está en peligro, Mirabel decide que ella, la única Madrigal sin ningún tipo de don único, puede ser la única esperanza de su excepcional familia.",
+		"trailer": "https://youtu.be/SAH_W9q_brE",
+		"entradas3D": 23,
+		"entradas2D": 12
+	},
+	{
+		"id": 4,
+		"nombre": "Eternals ",
+		"imagenPoster": "/img/4.jpg",
+		"imagenFondo": "/img/fondo-eternals.jpg",
+		"descripcion": "Hace millones de años, los seres cósmicos conocidos como los Celestiales comenzaron a experimentar genéticamente con los humanos. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. Ambas razas se han enfrentado en una eterna lucha de poder a lo largo de la historia. En medio de esta guerra, Ikaris y Sersi tratarán de vivir su propia historia de amor.",
+		"trailer": "https://youtu.be/f7aFqw3eYSs",
+		"entradas3D": 23,
+		"entradas2D": 12
+	},
+	{
+		"id": 5,
+		"nombre": "Hotel Transilvania: Transformanía ",
+		"imagenPoster": "/img/5.jpg",
+		"imagenFondo": "/img/fondo-hoteltransilvania.jpg",
+		"descripcion": "Drac y la pandilla vuelven, como nunca los habías visto antes en Hotel Transilvania: Transformanía. Volveremos a encontrarnos con nuestros monstruos favoritos en una aventura completamente nueva en la que Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el Rayo Monstrificador, se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo!",
+		"trailer": "https://youtu.be/HRvfDRPxTIg",
+		"entradas3D": 23,
+		"entradas2D": 12
+	},
+	{
+		"id": 6,
+		"nombre": "Jackass Forever ",
+		"imagenPoster": "/img/6.jpg",
+		"imagenFondo": "/img/fondo-jackass.jpg",
+		"descripcion": "Celebrate the joy of a perfectly executed shot to the groin as Johnny Knoxville, Steve-O and the rest of the gang return alongside some newcomers for one final round of hilarious, wildly absurd and often dangerous displays of stunts and comedy.",
+		"trailer": "https://www.youtube.com/watch?v=iAShnxV0eP8",
+		"entradas3D": 23,
+		"entradas2D": 12
+	},
+	{
+		"id": 7,
+		"nombre": "Ice Age: Las aventuras de Buck ",
+		"imagenPoster": "/img/7.jpg",
+		"imagenFondo": "/img/fondo-iceage.jpg",
+		"descripcion": "Buck, la intrépida comadreja tuerta, se une a los traviesos hermanos zarigüeya Crash y Eddie para emprender una nueva aventura en la casa de Buck: el mundo de los dinosaurios.",
+		"trailer": "https://www.youtube.com/watch?v=46re3REcFBs",
+		"entradas3D": 23,
+		"entradas2D": 12
+	}
+]

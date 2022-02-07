@@ -1,0 +1,46 @@
+:root {
+    --rojo:#E50914;
+    --fondo: #141414;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/backgroundTicket.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    height: 100px;
+}
+.factura-box{
+    width: 620px;
+    height: 720px;
+    background-color: rgba(0, 0, 0, .6);
+    color: whitesmoke;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 150px 30px;
+    border-radius: 20px;
+    display: block;
+  
+
+}
+h1 {
+    width: 130px;
+    font-size: 40px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    right: 50%;
+    text-align: center;
+    color: var(--rojo);
+    font-weight: 900;
+}
+H2{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+    margin-top: 40px;
+}
